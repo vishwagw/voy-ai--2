@@ -1,0 +1,6 @@
+{
+  "name": "voyai-travel-planner",
+  "version": "2.0.0",
+  "description": "AI-powered global travel planner with agency mode",
+  "engines": { "node": ">=18" }
+}
